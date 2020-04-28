@@ -1,0 +1,9 @@
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\karina.exe.config
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\karina.exe
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\karina.pdb
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\karina.csprojAssemblyReference.cache
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\karina.Properties.Resources.resources
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\karina.csproj.GenerateResource.cache
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\karina.exe
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\karina.pdb
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.Form1.resources

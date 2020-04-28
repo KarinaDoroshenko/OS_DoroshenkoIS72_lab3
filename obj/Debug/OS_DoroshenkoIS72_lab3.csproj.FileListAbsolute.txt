@@ -1,0 +1,9 @@
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\OS_DoroshenkoIS72_lab3.exe.config
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\OS_DoroshenkoIS72_lab3.exe
+C:\Users\Danil\Source\Repos\karina\karina\bin\Debug\OS_DoroshenkoIS72_lab3.pdb
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.csprojAssemblyReference.cache
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.Form1.resources
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.Properties.Resources.resources
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.csproj.GenerateResource.cache
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.exe
+C:\Users\Danil\Source\Repos\karina\karina\obj\Debug\OS_DoroshenkoIS72_lab3.pdb
